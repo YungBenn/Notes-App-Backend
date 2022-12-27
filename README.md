@@ -1,2 +1,2 @@
 # Notes-App-Backend
-Dicoding - Back-End app for beginner
+Dicoding - Back-End App for Beginner
