@@ -1,2 +1,2 @@
 # Notes-App-Backend
-Dicoding course
+Dicoding - Back-End app for beginner
